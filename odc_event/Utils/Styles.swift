@@ -17,6 +17,8 @@ class Styles
     static let white:Color = Color(uiColor: UIColor(named: "white")!)
     
     static let blue:Color = Color(uiColor: UIColor(named: "blue")!)
+    
+    static let grey:Color = Color(uiColor: UIColor(named: "grey")!)
 
     
     
